@@ -30,11 +30,7 @@ The goal of the player is to either
 
 The player is not required to exhaust the turn of all his / her units, the player may prematurely end their turn by simply pressing the button on the lower right corner of the window.
 
-
-![Button to end turn; Color will determine who's turn it is](/images/sc2.jpg)
-
-
-
+![Button to end turn; Color will determine who's turn it is](https://user-images.githubusercontent.com/87105826/211251895-eb621e0e-f40c-4903-ac90-27cea738584b.png)
 
 ## Starting Gameplay
 
@@ -103,9 +99,9 @@ The player goes against an AI or another player and take turns in controlling th
 The game is considered over once one player no longer has units to control or the headquarters has been captured. 
 
 ## Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/87105826/211251933-941ccc91-56e4-4d9e-88e5-ebe5d60e6a72.png)
+![Screenshot 2](https://user-images.githubusercontent.com/87105826/211251938-4bac7868-232c-4b0b-82b5-a2ee4c2c07f0.png)
 
-![Screenshot 1](/images/sc1.jpg)
-![Screenshot 2](/images/sc3.jpg)
 
 
 ## Authors
